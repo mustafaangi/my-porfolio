@@ -21,3 +21,5 @@ This section contains recommendations from colleagues and clients. New recommend
 1. Clone the repository:
   
    git clone https://github.com/mustafaangi/my-portfolio.git
+
+   https://mustafaangi.github.io/my-portfolio/
